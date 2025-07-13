@@ -4,7 +4,7 @@ This repository provides the **source data files** supporting the figures in our
 
 ## Repository Structure
 ## Figure2
-Figure2/Fig. 2e Normalized torsional stiffness of the proximal and distal ends of the ITG.xlsx
+###Figure2/Fig. 2e Normalized torsional stiffness of the proximal and distal ends of the ITG.xlsx
 Figure2/Fig. 2f Distal angle as a function of the proximal angle of the ITG, a workhorse guidewire, and the commercial pressure guidewire.xlsx
 Figure2/Fig. 2g Torque ratio of the ITG, the workhorse guidewire, and the commercial pressure guidewire.xlsx
 ## Figure3
