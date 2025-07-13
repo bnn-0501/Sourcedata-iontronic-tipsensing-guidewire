@@ -1,7 +1,8 @@
 # Source Data for Iontronic Tip-sensing Guidewire Study
 
-This repository provides the **source data files** supporting the figures in our study on **Iontronic tip-sensing guidewires for monitoring blood pressure differences across stenoses. The data are organized by figure and provided in `.xlsx` format for ease of inspection and reuse.
-
+This repository provides the **source data files** supporting the figures in our study on **Iontronic tip-sensing guidewires for monitoring blood pressure differences across stenoses. The data are organized by figure and provided in `.xlsx` format for ease of inspection and reuse.  
+## Note
+The original dataset for Fig. 3f, representing cyclic stability, has been divided into three files (Fig. 3f_1, Fig. 3f_2, Fig. 3f_3) by time sequence to keep each file under 25 MB in accordance with GitHub upload requirements.  
 ## Repository Structure
 ## Figure2
 Figure2/Fig. 2e Normalized torsional stiffness of the proximal and distal ends of the ITG.xlsx  
