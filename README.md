@@ -4,9 +4,9 @@ This repository provides the **source data files** supporting the figures in our
 
 ## Repository Structure
 ## Figure2
-## Figure2/Fig. 2e Normalized torsional stiffness of the proximal and distal ends of the ITG.xlsx
-## Figure2/Fig. 2f Distal angle as a function of the proximal angle of the ITG, a workhorse guidewire, and the commercial pressure guidewire.xlsx
-## Figure2/Fig. 2g Torque ratio of the ITG, the workhorse guidewire, and the commercial pressure guidewire.xlsx
+Figure2/Fig. 2e Normalized torsional stiffness of the proximal and distal ends of the ITG.xlsx
+Figure2/Fig. 2f Distal angle as a function of the proximal angle of the ITG, a workhorse guidewire, and the commercial pressure guidewire.xlsx
+Figure2/Fig. 2g Torque ratio of the ITG, the workhorse guidewire, and the commercial pressure guidewire.xlsx
 ## Figure3
 Figure3/Fig. 3a Detection of pressure change of 1 Pa using the ITG.xlsx
 Figure3/Fig. 3b Capacitance change (AC) as a function of applied pressure (ΔP) of the ITG tested in the simulated circulation system.xlsx
