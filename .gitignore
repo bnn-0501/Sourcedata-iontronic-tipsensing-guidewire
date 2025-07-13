@@ -1,0 +1,53 @@
+# ======================
+# OS-specific files
+# ======================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================
+# Temporary files
+# ======================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ======================
+# IDE / Editor folders
+# ======================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ======================
+# Python cache
+# ======================
+__pycache__/
+*.py[cod]
+
+# ======================
+# Jupyter Notebook checkpoints
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Node.js environment
+# ======================
+node_modules/
+
+# ======================
+# Optional: exclude backup or output folders (adjust if needed)
+# ======================
+/output/
+/build/
+/dist/
+
+# ======================
+# Optional: if you generate intermediate processed files
+# Uncomment if needed:
+# *.csv
+# *.xlsx
